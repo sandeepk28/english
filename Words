@@ -4,3 +4,8 @@ verb
 संघबद्ध होना
 एक संस्था में सम्मिलित करना
 federated (verb past tense)
+
+Java VisualVM federates these tools to obtain data from the JVM software, then re-organizes and presents the 
+information graphically, to enable you to view different data about multiple Java applications uniformly, whether they are running
+locally or on remote machines. Furthermore,
+developers can extend Java VisualVM to add new functionality by creating and posting plug-ins to the tool's built-in update center.
